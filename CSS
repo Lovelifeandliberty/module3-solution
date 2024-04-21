@@ -1,0 +1,75 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mod 2 Test</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+/* Custom Styles */
+/********** Base styles **********/
+body {
+  margin: 5px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.container {
+  background-color: #00FFFF;
+  border: 7px solid white;
+  margin-bottom: 15px;
+  font-family: serif;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+p {
+  border: 1px solid black;
+  background-color: #A52A2A;
+  margin-bottom: 15px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+}
+
+/********** Navbar Styles **********/
+.navbar {
+   background-color: #367C2B;
+}
+
+.navbar-brand {
+  padding: 14px 20px;
+  font-size: 20px;
+  color: #FFFF00;
+}
+
+.navbar-toggler-icon {
+  background-color: #fff;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.nav-link {
+  color: #f2f2f2;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+/* Mobile View */
+.dropdown-menu {
+  width: 100vw; /* Take up entire width of viewport */
+  background-color: #ddd; /* Background color for dropdown menu */
+}
+
+/* Centering text */
+.text-center {
+  text-align: center !important;
+}
+
+</style>
